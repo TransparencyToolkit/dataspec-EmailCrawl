@@ -1,0 +1,52 @@
+{
+    "Facet": [
+	"from",
+	"to",
+	"cc"
+  ],
+    "Merge Categorical": [
+    ],
+    "Searchable": [
+	"source_file",
+	"message_id",
+	"subject",
+	"date",
+	"from",
+	"to",
+	"cc",
+	"body_plain",
+	"attachments"
+	],
+    "In Search Results": [
+	"subject",
+	"date",
+	"from",
+	"to",
+	"cc",
+	"body_plain"
+	],
+    "In Search Results by Default": [
+	"subject",
+	"date",
+	"from",
+	"to",
+	"cc",
+	"body_plain"
+  ],
+    "On Doc Page": [
+	"source_file",
+	"message_id",
+	"subject",
+	"date",
+	"from",
+	"to",
+	"cc",
+	"body_plain",
+	"attachments"
+  ],
+  "Item Field": [
+  ],
+    "Truncate Text": [
+	"body_plain"
+  ]
+}

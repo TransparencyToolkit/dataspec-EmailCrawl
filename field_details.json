@@ -1,0 +1,89 @@
+[
+  {
+    "Field Name": "source_file",
+    "Human Readable Name": "Source File",
+    "Type": "String",
+    "Form Params": "source_file",
+    "Location": "0",
+    "Display Type": "Shorter Text",
+    "Icon": "analysis"
+  },{
+      "Field Name": "subject",
+      "Human Readable Name": "Subject",
+      "Type": "String",
+      "Display Type": "Title",
+      "Mapping": "english",
+      "Form Params": "subject",
+      "Location": "4",
+      "Icon": "building"
+  },{
+    "Field Name": "message_id",
+    "Human Readable Name": "Message ID",
+    "Type": "String",
+    "Display Type": "Shorter Text",
+    "Mapping": "english",
+    "Form Params": "message_id",
+    "Location": "4",
+    "Icon": "building"
+  },
+    {
+	"Field Name": "from",
+	"Human Readable Name": "From",
+	"Type": "String",
+	"Display Type": "Category",
+	"Mapping": "english",
+	"Form Params": "from",
+	"Location": "5",
+	"Icon": "map"
+    },
+    {
+    "Field Name": "to",
+    "Human Readable Name": "To",
+    "Type": "String",
+    "Display Type": "Category",
+    "Mapping": "english",
+    "Form Params": "to",
+    "Location": "6",
+    "Icon": "document-topic"
+  },{
+    "Field Name": "cc",
+    "Human Readable Name": "CC",
+    "Type": "String",
+    "Display Type": "Category",
+    "Mapping": "english",
+    "Form Params": "cc",
+    "Location": "7",
+    "Icon": "survey"
+  },{
+	"Field Name": "body_plain",
+	"Human Readable Name": "Email Body",
+	"Type": "String",
+	"Display Type": "Long Text",
+	"Mapping": "english",
+	"Form Params": "body_plain",
+	"Location": "7",
+	"Icon": "phone-extension"
+    },
+    {
+      "Field Name": "attachments",
+      "Human Readable Name": "Attachments",
+      "Type": "String",
+      "Display Type": "Short Text",
+      "Mapping": "english",
+      "Form Params": "attachments",
+      "Location": "20",
+      "Icon": "money"
+    },{
+	"Field Name": "date",
+	"Human Readable Name": "Date",
+	"Type": "Date",
+	"Display Type": "Date",
+	"Mapping": "not_analyzed",
+	"Form Params": [
+	    "date",
+	    "end_date"
+	],
+	"Location": "3",
+	"Icon": ""
+    }
+]
