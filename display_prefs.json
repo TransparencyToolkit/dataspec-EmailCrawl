@@ -1,8 +1,8 @@
 {
     "Facet": [
-	"from",
-	"to",
-	"cc"
+	"addresses",
+	"sender",
+	"recipients"
   ],
     "Merge Categorical": [
     ],
@@ -15,22 +15,23 @@
 	"to",
 	"cc",
 	"body_plain",
-	"attachments"
+	"attachments",
+	"addresses",
+	"sender",
+	"recipients"
 	],
     "In Search Results": [
 	"subject",
 	"date",
-	"from",
-	"to",
-	"cc",
+	"sender",
+	"recipients",
 	"body_plain"
 	],
     "In Search Results by Default": [
 	"subject",
 	"date",
-	"from",
-	"to",
-	"cc",
+	"sender",
+	"recipients",
 	"body_plain"
   ],
     "On Doc Page": [
@@ -42,7 +43,10 @@
 	"to",
 	"cc",
 	"body_plain",
-	"attachments"
+	"attachments",
+	"addresses",
+	"sender",
+	"recipients"
   ],
   "Item Field": [
   ],
