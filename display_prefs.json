@@ -2,7 +2,8 @@
     "Facet": [
 	"addresses",
 	"sender",
-	"recipients"
+	"recipients",
+	"mail_folder"
   ],
     "Merge Categorical": [
     ],
@@ -18,21 +19,24 @@
 	"attachments",
 	"addresses",
 	"sender",
-	"recipients"
+	"recipients",
+	"mail_folder"
 	],
     "In Search Results": [
 	"subject",
 	"date",
 	"sender",
 	"recipients",
-	"body_plain"
+	"body_plain",
+	"mail_folder"
 	],
     "In Search Results by Default": [
 	"subject",
 	"date",
 	"sender",
 	"recipients",
-	"body_plain"
+	"body_plain",
+	"mail_folder"
   ],
     "On Doc Page": [
 	"source_file",
@@ -46,7 +50,8 @@
 	"attachments",
 	"addresses",
 	"sender",
-	"recipients"
+	"recipients",
+	"mail_folder"
   ],
   "Item Field": [
   ],

@@ -27,6 +27,16 @@
     "Icon": "building"
   },
     {
+	"Field Name": "mail_folder",
+	"Human Readable Name": "Mail Folder",
+	"Type": "String",
+	"Display Type": "Category",
+	"Mapping": "english",
+	"Form Params": "mail_folder",
+	"Location": "5",
+	"Icon": "map"
+    },
+    {
 	"Field Name": "addresses",
 	"Human Readable Name": "Addresses",
 	"Type": "String",
