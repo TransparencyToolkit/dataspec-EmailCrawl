@@ -120,8 +120,8 @@
 	"Display Type": "Date",
 	"Mapping": "not_analyzed",
 	"Form Params": [
-	    "datetime",
-	    "end_datetime"
+	    "date",
+	    "end_date"
 	],
 	"Location": "3",
 	"Icon": ""
@@ -132,8 +132,8 @@
 	"Display Type": "Date",
 	"Mapping": "not_analyzed",
 	"Form Params": [
-	    "date",
-	    "end_date"
+	    "date_searchable",
+	    "end_date_searchable"
 	],
 	"Location": "3",
 	"Icon": ""
