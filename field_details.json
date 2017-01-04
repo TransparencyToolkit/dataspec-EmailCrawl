@@ -116,7 +116,7 @@
     },{
 	"Field Name": "date",
 	"Human Readable Name": "Date",
-	"Type": "Date",
+	"Type": "DateTime",
 	"Display Type": "Date",
 	"Mapping": "not_analyzed",
 	"Form Params": [
