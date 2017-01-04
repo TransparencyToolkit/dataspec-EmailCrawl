@@ -11,7 +11,7 @@
 	"source_file",
 	"message_id",
 	"subject",
-	"date",
+	"date_searchable",
 	"from",
 	"to",
 	"cc",

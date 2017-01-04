@@ -120,6 +120,18 @@
 	"Display Type": "Date",
 	"Mapping": "not_analyzed",
 	"Form Params": [
+	    "datetime",
+	    "end_datetime"
+	],
+	"Location": "3",
+	"Icon": ""
+    },{
+	"Field Name": "date_searchable",
+	"Human Readable Name": "Date",
+	"Type": "Date",
+	"Display Type": "Date",
+	"Mapping": "not_analyzed",
+	"Form Params": [
 	    "date",
 	    "end_date"
 	],
